@@ -1,0 +1,27 @@
+What can I do with Python? Hilights by author:
+    - Systems programming 
+    - GUIs
+    - Internet scripting
+    - Component integration
+    - Database programming
+    - Rapid prototyping
+    - Numberic and scientific programming
+    ...
+
+Python's technical strengths:
+    - OO and functional
+    - Free! (& good support!)
+    - Portable
+    - Powerful
+        In terms of:
+        * Dynamic typing
+        * Automatic memory management
+        * Good support
+        * Build-in object types
+        * Build-in tools
+        * Library utilities
+        * Third-party utilities
+    - Mixable
+    - Relatively easy to use
+    - Relatively easy to learn
+    
