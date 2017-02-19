@@ -1,0 +1,10 @@
+- script.py will be compiled to script.pyc in same location (2.X) or __pycache__ of the same directory of script.py
+- checking *.py and *.pyc timestamp to decide whether recompile is needed
+- recompile if the script is create in one python version but used in another version
+- if the runner doesn't have write permission, in memory pyc will be generated
+- Python implementations:
+    * CPython : The standard
+    * Jython : Python for Java
+    * IronPython : Python for .Net
+    * Stackless : Python for concurrency
+    * PyPy : Python for speed (claims a 5.7X speedup over CPython - 2013)
