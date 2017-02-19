@@ -1,3 +1,11 @@
+Why use Python?
+    - Software quality
+    - Developer productivity
+    - Program portability
+    - Support libraries
+    - Component integration
+    - Enjoyment
+
 What can I do with Python? Hilights by author:
     - Systems programming 
     - GUIs
