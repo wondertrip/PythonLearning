@@ -1,2 +1,8 @@
 - import module only runs at the first time
 - if you want to refresh/rerun by using import, use reload instead
+- reload is not transitive
+- approaches of running python scripts:
+    * python file.py
+    * python -> import / reload / exec(open("file.py").read())
+    * command line interaction
+    
