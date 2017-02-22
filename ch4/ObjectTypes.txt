@@ -1,0 +1,35 @@
+Why use built-in types?
+- Built-in objects make programs easy to write
+- Built-in objects are component of extensions
+- Built-in objects are often more efficient than custom data structures
+- Built-in objects are a standard part of the language
+
+Built-in object types:
+- Numbers
+- Strings
+- Lists
+- Dictionaries
+- Tuples
+- Files
+- Sets
+- Other core types like booleans / types/ None
+- Program unit types like functions / modules / classes
+- Implementation related types like compiled code / stack tracebacks 
+
+S[i:j] : elements from index i to j, and:
+- i can be omitted when it's 0
+- j can be ommited when it's len(S) - 1
+- S[:] is not stupid but return a copy of S
+
+Handy combination of getting help about api:
+- dir(object) to show all operations(apis)
+- help(api) to show the built-in manual information
+
+Very cool feature that the List support comprehensive expression like:
+- M = [ [1, 2, 3],
+        [4, 5, 6],
+        [7, 8, 9]]
+  column2 = [row[1] for row in M]
+  now columns2 is [2, 5, 8]
+  Nice!
+  
