@@ -33,3 +33,4 @@ Very cool feature that the List support comprehensive expression like:
   now columns2 is [2, 5, 8]
   Nice!
   
+It's really nice that the {sum(row) for row in Matrix} will filter out the duplicate elements when generating the set! Good Python!
