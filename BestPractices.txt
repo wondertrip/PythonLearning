@@ -1,0 +1,9 @@
+The best way to read file probably is :
+for line in open('file'):
+    #do things here
+Benefit is, the whole file won't be loaded into memory all 
+
+Tranditionaly way is:
+for line in open('file').readlines():
+    #do things here
+Even though the statement says readlines, the whole file will be loaded into memory all in once
